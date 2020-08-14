@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[![HitCount](http://hits.dwyl.com/start-50up/start-50up.svg)](http://hits.dwyl.com/start-50up/start-50up)
+
 **start-50up/start-50up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
